@@ -10,8 +10,9 @@
         <module name="lygateway" />
         <module name="ly-item-service" />
         <module name="lyregistry" />
-        <module name="ly-gateway" />
+        <module name="ly-upload" />
         <module name="ly-item-interface" />
+        <module name="ly-gateway" />
         <module name="ly-common" />
         <module name="ly-registry" />
       </profile>
@@ -25,6 +26,7 @@
       <module name="ly-item-interface" options="-parameters" />
       <module name="ly-item-service" options="-parameters" />
       <module name="ly-registry" options="-parameters" />
+      <module name="ly-upload" options="-parameters" />
       <module name="lygateway" options="-parameters" />
       <module name="lyregistry" options="-parameters" />
     </option>
